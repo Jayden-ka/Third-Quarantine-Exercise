@@ -1,1 +1,2 @@
 hi this is featureA
+hi this is featureB
